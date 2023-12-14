@@ -1,12 +1,12 @@
 body {
-    background-color: #ddefa7;
+    background-color: lightblue;
     text-align: left
   }
 
   h1 {
-      font-family: sans-serif;
+      font-family: 'Times New Roman', Times, serif;
   }
   
   h2 {
-  font-family: sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   }
